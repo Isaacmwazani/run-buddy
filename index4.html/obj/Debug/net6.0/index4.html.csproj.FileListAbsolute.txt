@@ -1,0 +1,5 @@
+C:\Users\isaac\OneDrive\Documents\GitHub\run-buddy\index4.html\obj\Debug\net6.0\index4.html.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Documents\GitHub\run-buddy\index4.html\obj\Debug\net6.0\index4.html.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\OneDrive\Documents\GitHub\run-buddy\index4.html\obj\Debug\net6.0\index4.html.AssemblyInfoInputs.cache
+C:\Users\isaac\OneDrive\Documents\GitHub\run-buddy\index4.html\obj\Debug\net6.0\index4.html.AssemblyInfo.cs
+C:\Users\isaac\OneDrive\Documents\GitHub\run-buddy\index4.html\obj\Debug\net6.0\index4.html.csproj.CoreCompileInputs.cache
